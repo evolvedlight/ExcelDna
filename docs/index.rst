@@ -43,8 +43,9 @@ The current version is Excel-DNA 1.0.0, released on 27 April 2019. This release 
    :caption: Contents:
 
    installation
-   license
+   advanced/ribbon
    help
+
 
 Indices and tables
 ==================
