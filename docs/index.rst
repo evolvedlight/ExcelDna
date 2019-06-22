@@ -1,6 +1,10 @@
 Excel-Dna Documentation
 =======================
 
+.. note::
+   This is not the official documentation, although I would hope to contribute these back to make them official when completed
+
+
 Guide
 ^^^^^
 
